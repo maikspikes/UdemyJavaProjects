@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public record LPAStudent() {
+public record LPAStudent(String id, String name, String dateOfBirth, String classList) {
+
 }

@@ -1,4 +1,4 @@
-public class MainChallenge {
+public class Sum3And5ChallengeMain {
     public static void main(String[] args) {
         int countOfMatches = 0;
         int sumOfMatches = 0;
